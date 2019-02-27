@@ -3,3 +3,5 @@ server:
 spring:
   application:
     name: server-hi
+girl: 
+  name: 12
