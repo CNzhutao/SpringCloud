@@ -4,4 +4,4 @@ spring:
   application:
     name: server-hi
 girl: 
-  name: 18
+  name: 19
